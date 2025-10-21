@@ -1,0 +1,15 @@
+C:\Users\PNY GTX 1060\Desktop\ready design\lmitp\lmitp\bin\Debug\lmitp.exe.config
+C:\Users\PNY GTX 1060\Desktop\ready design\lmitp\lmitp\bin\Debug\lmitp.exe
+C:\Users\PNY GTX 1060\Desktop\ready design\lmitp\lmitp\bin\Debug\lmitp.pdb
+C:\Users\PNY GTX 1060\Desktop\ready design\lmitp\lmitp\obj\Debug\BO4 Editor.csproj.AssemblyReference.cache
+C:\Users\PNY GTX 1060\Desktop\ready design\lmitp\lmitp\obj\Debug\lmitp.Properties.Resources.resources
+C:\Users\PNY GTX 1060\Desktop\ready design\lmitp\lmitp\obj\Debug\BO4 Editor.csproj.GenerateResource.cache
+C:\Users\PNY GTX 1060\Desktop\ready design\lmitp\lmitp\obj\Debug\BO4 Editor.csproj.CoreCompileInputs.cache
+C:\Users\PNY GTX 1060\Desktop\ready design\lmitp\lmitp\obj\Debug\lmitp.exe
+C:\Users\PNY GTX 1060\Desktop\ready design\lmitp\lmitp\obj\Debug\lmitp.pdb
+C:\Users\PNY GTX 1060\Desktop\ready design\lmitp\lmitp\obj\Debug\lmitp.Aether.resources
+C:\Users\PNY GTX 1060\Desktop\ready design\lmitp\lmitp\obj\Debug\lmitp.classeditor.resources
+C:\Users\PNY GTX 1060\Desktop\ready design\lmitp\lmitp\obj\Debug\lmitp.callingcardeditor.resources
+C:\Users\PNY GTX 1060\Desktop\ready design\lmitp\lmitp\obj\Debug\lmitp.Form1.resources
+C:\Users\PNY GTX 1060\Desktop\ready design\lmitp\lmitp\obj\Debug\lmitp.welcome.resources
+C:\Users\PNY GTX 1060\Desktop\ready design\lmitp\lmitp\obj\Debug\lmitp.zombieeditor.resources
